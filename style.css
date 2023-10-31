@@ -1,13 +1,13 @@
-h1{color:black;}
+h1{color:white;}
 
 h1{text-align: center; }
-
+    h2{color:white; }
 #kiss {width: 30%;}
 #kiss {margin-left: 36%;}
-#kiss {border:solid red ;}
+#kiss {border:solid white ;}
 
-body {background-color: yellow; }
+body {background-color:black ; }
 
 #kiss2 {width: 30%;}
 #kiss2 {margin-left: 36%;}
-#kiss2 {border:solid red ;}
+#kiss2 {border:solid white ;}
